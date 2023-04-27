@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -70,3 +71,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Gamefiles/CS3GD/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-10_7_0.bundle
+Gamefiles/CS3GD/[Aa]ssets/[Ee]xternal[Dd]ependencyManager/*
+Gamefiles/CS3GD/[Aa]ssets/[Ee]ditor\ [Dd]efault\ [Rr]esources/*
+Gamefiles/CS3GD/[Aa]ssets/[Ff]irebase*
+Gamefiles/CS3GD/Assets/ExternalDependencyManager.meta
+Gamefiles/CS3GD/Assets/Editor Default Resources.meta 
+Gamefiles/CS3GD/Builds/CS3GD_Data/*
+Gamefiles/CS3GD/Library/*
